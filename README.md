@@ -1,2 +1,2 @@
 # projeto-site-invertido
- Ensinado no youtube pela dio.
+ Ensinado no youtube pela DIO.
